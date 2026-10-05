@@ -4,8 +4,7 @@ import negocio.Carro;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
 
-    Carro c1;
-    c1 = new Carro(); //creando el objeto y asiganando c1
+    Carro c1 = new Carro(); //creando el objeto y asiganando c1
 
 
 

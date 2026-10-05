@@ -2,9 +2,8 @@ package negocio;
 
 public class MainCarro {
     static void main() { //"psvm" y tab para crear el main automaticamente
+
         Carro c1 = new Carro();
-        Carro c2 = new Carro();
-        Carro c3 = new Carro();
 
     c1.setVelocidad(100);
     c1.setPotencia(5);
